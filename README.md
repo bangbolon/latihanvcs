@@ -15,3 +15,8 @@ klik next untuk melanjutkan process selanjutnya
 dan untuk procces ini hanya lanjut klik "Next" saja <p>
 dan masuk procces lebih lanjut lagi
 ![Gambar3](screenshoot/ss3.png.png)
+
+### PROCCES MENGINSTALL GIT
+dan untuk procces ini sama seperti diatas hanya "Next saja <p>
+dan lanjut untuk procces selanjutnya
+![Gambar] (screenshoot/ss4.png.png)
