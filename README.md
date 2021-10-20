@@ -70,12 +70,12 @@ dan setelah itu tinggal kita connect kan saja ke github <p>
 dan klik saja "Authorize" -SELESAI-
 ![Gambar16](screenshoot/ss16.png.png)
 
-git init : untuk membuat repository pada file lokal <p>
-           yang nantinya ada folder git
-git status : untuk mengetahui status dari repository lokal
-git add : menambahkan file baru pada repsoitory yang dipilih
+git init : untuk membuat repository pada file lokal
+           yang nantinya ada folder git <p>
+git status : untuk mengetahui status dari repository lokal<p>
+git add : menambahkan file baru pada repsoitory yang dipilih<p>
 git commit : untuk menyimpan perubahan yang dilakukan <p>
-             tetapi tidak pada perubahan pada remote repository
+             tetapi tidak pada perubahan pada remote repository<p>
 git push : untuk mengirimkan perubahan file setelah di commit
             ke remote repsoitory <p>
 ![Gambar17](screenshoot/ss17.png.png)
