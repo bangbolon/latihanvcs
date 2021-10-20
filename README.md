@@ -76,6 +76,6 @@ git status : untuk mengetahui status dari repository lokal
 git add : menambahkan file baru pada repsoitory yang dipilih
 git commit : untuk menyimpan perubahan yang dilakukan <p>
              tetapi tidak pada perubahan pada remote repository
-git push : untuk mengirimkan perubahan file setelah di commit<p>
-            ke remote repsoitory
+git push : untuk mengirimkan perubahan file setelah di commit
+            ke remote repsoitory <p>
 ![Gambar17](screenshoot/ss17.png.png)
