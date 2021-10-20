@@ -78,4 +78,6 @@ git commit : untuk menyimpan perubahan yang dilakukan <p>
              tetapi tidak pada perubahan pada remote repository<p>
 git push : untuk mengirimkan perubahan file setelah di commit
             ke remote repsoitory <p>
+git clon : Membuat Salinan repository lokal <p>
 ![Gambar17](screenshoot/ss17.png.png)
+![Gambar18](screenshoot/ss18.png.png)
